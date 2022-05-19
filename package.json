@@ -1,0 +1,9 @@
+{
+  "name": "gameOfLife",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life in JS",
+  "main": "index.js",
+  "author": "progmatic99",
+  "license": "MIT",
+  "private": false
+}
